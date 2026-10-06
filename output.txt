@@ -1,0 +1,10 @@
+===== STUDENT GRADE REPORT =====
+Student Name: Alquin Ferrer
+Activity Grade: 85
+Project Grade: 90.5
+Final Grade: 87.75
+Original Passed Status: true
+Did the student pass? true
+Is the final grade excellent? false
+Points needed to reach 100 in activities: 15
+Remainder of 100 divided by activity grade: 15
