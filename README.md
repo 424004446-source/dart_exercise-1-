@@ -1,5 +1,8 @@
 # dart_exercise-1-
 
+Name: Ferrer, Alquin D.
+Section & Program: BSIT 3.3
+
 Dart Fundamentals – Student Grade Calculator
 Scenario
 
